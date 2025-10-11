@@ -4,7 +4,7 @@ from collections import deque
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 
-def gerar_labirinto(linhas, colunas, densidade_parede=0.25, max_attempts=1000):
+def gerar_labirinto(linhas, colunas, densidade_parede=10.00, max_attempts=1000):
     """Gera um labirinto (0 = livre, 1 = parede) garantindo que start e goal estejam conectados"""
     attempts = 0
     while attempts < max_attempts:
@@ -106,3 +106,7 @@ if __name__ == "__main__":
     densidade_parede = 0.30  # 0.0 = livre, 0.5 = muito bloqueado
     grid, start, goal = gerar_labirinto(linhas, colunas, densidade_parede)
     simular_agente_visual(grid, start, goal, delay=150)
+
+
+# coloque aqui as alterções para o codigo:
+
