@@ -14,4 +14,4 @@ manter estudos e aplicas labirintos de diferentes tamanhos, aumentando asssim
 o nivel de dificuldade do labirinto "aumentar a quantidade de paredes, aumentar 
 o tamanho do labirinto";
 
-
+implementar freamework agno: realiza tarefas muiltiagentes com memoria e aramzenamento;
