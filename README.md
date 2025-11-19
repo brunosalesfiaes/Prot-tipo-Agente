@@ -41,7 +41,7 @@ Este projeto implementa um sistema completo de **geração procedural de labirin
 #### Executar o Sistema Adaptativo
 
 ```bash
-python adaptive_maze.py
+python Labirinto_adaptativo.py
 ```
 
 Este script executa:
