@@ -91,14 +91,6 @@ O sistema original (`labirintoPy.py`) inclui visualização animada com matplotl
 python labirintoPy.py
 ```
 
-### 📝 Próximas Melhorias
-
-- [ ] Controlador mais sofisticado (PID, Bandits, Bayesian Optimization)
-- [ ] Agente RL mais avançado (DQN com PyTorch)
-- [ ] Métricas cognitivas adicionais (decisões críticas, entropia de trajetórias)
-- [ ] Geradores condicionais via ML (VAE/GAN)
-- [ ] Framework multiagente com memória e armazenamento
-
 ### 🔗 Referências
 
 - Frameworks Python para Agentes de IA: https://blog.dsacademy.com.br/8-principais-frameworks-python-para-agentes-de-ia/
